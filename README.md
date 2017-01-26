@@ -1,2 +1,2 @@
-# COSC-3336
-Work done for Programming Languages 
+# Programming Languages 
+Work done for Programming Languages COSC 3336
